@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "cbor-sync": "^1.0.3",
-    "serialport": "^10.4.0"
+    "serialport": "13.0.0"
   },
   "bugs": {
     "url": "https://github.com/neolp/itmplinkserialjs/issues"
